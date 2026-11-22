@@ -13,6 +13,9 @@
   <a href="https://t.me/AhmadiAyan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
+  <a href="https://wa.me/8801738687003" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Ahmadi-Ayan&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
 </p>
 
@@ -70,6 +73,10 @@
 <p align="center">
   <a href="https://t.me/AhmadiAyan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@AhmadiAyan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/8801738687003" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
