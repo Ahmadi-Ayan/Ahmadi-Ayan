@@ -10,6 +10,9 @@
   <a href="https://github.com/Ahmadi-Ayan?tab=followers">
     <img src="https://img.shields.io/github/followers/Ahmadi-Ayan?label=Followers&style=social" alt="GitHub Followers">
   </a>
+  <a href="https://t.me/AhmadiAyan" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Ahmadi-Ayan&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
 </p>
 
@@ -58,6 +61,16 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahmadi-Ayan/Ahmadi-Ayan/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/AhmadiAyan" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@AhmadiAyan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 ---
